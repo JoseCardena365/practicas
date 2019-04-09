@@ -19,13 +19,13 @@ for nombres in range(0,3):
 # Quitar el print
     print(listaNombres)
 
-    variable = 0
-#Pasar la lista
-    listaCalificaciones = []
-
-    len(listaCalificaciones)
-    for calificaciones in range(0, 5):
-        #listaCalificaciones.append(input("ingrese sus calificaciones"))
-        variable += float(input("ingrese sus calificaciones"))
-
-    print(listaCalificaciones)
+#     variable = 0
+# #Pasar la lista
+#     listaCalificaciones = []
+#
+#     len(listaCalificaciones)
+#     for calificaciones in range(0, 5):
+#         #listaCalificaciones.append(input("ingrese sus calificaciones"))
+#         variable += float(input("ingrese sus calificaciones"))
+#
+#     print(listaCalificaciones)
